@@ -4,7 +4,7 @@ zerops:
       base: nodejs@20
       buildCommands:
         - npm i
-        - npm build
+        - npm run build
       deployFiles:
         - dist/recipe-angular-static/browser/~
     run:
