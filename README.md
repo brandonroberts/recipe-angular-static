@@ -32,4 +32,4 @@ If you want to modify your existing Angular app to efficiently run on Zerops, th
 
 <br/>
 
-Need help setting your project up? Join [Zerops Discord community](https://discord.com/invite/WDvCZ54).
+Need help setting your project up? Join the [Zerops Discord community](https://discord.com/invite/WDvCZ54).
