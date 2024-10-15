@@ -56,6 +56,10 @@ zerops:
         - dist/recipe-angular-static/browser/~
     run:
       base: static
+      routing:
+        redirects:
+          - from: /*
+            to: /index.html
     `;
     
     this.zeropsyaml = zerops;

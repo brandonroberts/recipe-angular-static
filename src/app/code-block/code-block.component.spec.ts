@@ -8,7 +8,7 @@ describe('CodeBlockComponent', () => {
 
   beforeEach(async() => {
     TestBed.configureTestingModule({
-      imports: [CodeBlockComponent],q
+      imports: [CodeBlockComponent],
     }).compileComponents();
   });
 

@@ -6,7 +6,7 @@
 
 ## Deploy on Zerops
 
-You can either click the deploy button to deploy directly on Zerops, or manually copy the [import yaml](https://github.com/brandonroberts/recipe-angular-static/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
+You can either click the deploy button to deploy directly on Zerops, or manually copy the [import yaml](https://github.com/zeropsio/recipe-angular-static/blob/main/zerops-project-import.yml) to the import dialog in the Zerops app.
 
 <br/>
 
